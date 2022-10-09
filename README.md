@@ -1,0 +1,2 @@
+# Ngspice
+abc
