@@ -1,2 +1,2 @@
 # Ngspice
-Sandbox for experimenting with Ngspice in Google Colab
+Sandbox for experimenting with Ngspice & SKY130 PDK in Google Colab
